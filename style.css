@@ -291,6 +291,9 @@ section.portfolio .flex{
 .overlay:hover{
     opacity: 1;
 }
+.overlay .overlayname{
+    color: white;
+}
 /*ESTILO DE FORMULARIO DE CONTATO*/
 
 section.formulario{
